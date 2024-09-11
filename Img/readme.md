@@ -1,0 +1,1 @@
+this loc contains img
